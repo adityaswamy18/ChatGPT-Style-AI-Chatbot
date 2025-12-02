@@ -14,3 +14,17 @@ This project is a ChatGPT-style conversational AI chatbot built using n8n workfl
 ⚡ Real-time response using Respond to Webhook
 
 🪝 Custom session handling using dynamic session ke
+
+🧪 How to Use
+
+Import the provided .json workflow file into n8n
+
+Configure Google Gemini API Key
+
+Activate the workflow
+
+Copy the webhook URL generated
+
+Send a POST request with JSON
+
+Get AI-generated responses in real-time
